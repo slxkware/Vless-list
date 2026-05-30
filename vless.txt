@@ -1,53 +1,33 @@
-# VLESS - SLXKWARE #
-# Обновлено: 2026-05-30 10:21 UTC #
+# ⚡SLXKWARE - VLESS⚡ #
+# Обновлено: 2026-05-30 10:47 UTC #
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.232.140.30:8880?host=vms.lifetime61.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&type=ws#🇦🇪AE_2ms_none
-vless://f9a0061a-0585-43ab-9cce-12099b48be53@93.123.113.36:443?type=tcp&security=reality&sni=&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&sid=ea1058117be12087#🇦🇱AL_217ms_reality
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.215.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime02.workers.dev#🇦🇲AM_3ms_none
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@212.183.88.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🇦🇹AT_2ms_none
-vless://536d0d54-53a5-455a-ad7c-a525d8ff629f@2.58.104.11:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=tesdt.arvanabr.xyz&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=tesdt.arvanabr.xyz#🇦🇺AU_2ms_none
-vless://913e7701-b4f0-4568-8f2f-79a8e71e14aa@109.69.218.162:443?type=tcp&security=reality&sni=&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894#🇧🇪BE_175ms_reality
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.201:8880?encryption=none&security=none&type=ws&host=support.zoom.us.joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇧🇬BG_2ms_none
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.133.35.30:8880?type=ws&host=vms.lifetime48.workers.dev#🇧🇷BR_2ms_none
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.66.71.149:2053?&security=tls&fp=chrome&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=/danfeng#🇧🇾BY_260ms_tls
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.211.30:8880?type=ws&host=vms.lifetime06.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳#🇧🇿BZ_3ms_none
-vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80?security=&type=ws&path=/&host=danuwazero.com&encryption=none#🇨🇦CA_1ms_
-vless://26524cce-d514-4014-a426-365fb266a14d@178.253.32.49:1103?type=ws&security=tls&sni=&host=snippet.fgfw.loc.cc&path=%2Fdanfeng#🇨🇩CD_455ms_tls
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@204.11.2.30:7443?type=tcp&headerType=none&security=reality&encryption=none&sni=stackoverflow.com&fp=firefox&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&flow=xtls-rprx-vision#🇨🇭CH_195ms_reality
-vless://26524cce-d514-4014-a426-365fb266a14d@64.176.15.110:2053?type=ws&security=tls&sni=&host=s3vz.user-service.chinav.indevs.in&path=%2Fdanfeng#🇨🇱CL_305ms_tls
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@77.105.163.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/TelegramU0001F1E8U0001F1F3#🇨🇳CN_3ms_none
-vless://06be7b9f-5e99-47d2-82e8-667cedecc829@190.93.244.170:2082?path=%2F%40v2ngnet-%40-v2ngnet%40v2ngnet-%40v2ngnet-%40v2ngnet-%40v2ngnet%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=v2ngnet.nanvrfood.ir&amp;type=httpupgrade#🇨🇷CR_2ms_none
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.244.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK&security=none&type=ws#🇨🇼CW_2ms_none
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.30:8880?type=ws&host=vms.lifetime59.workers.dev#🇨🇾CY_3ms_none
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.30:8880?type=ws&security=none&host=vms.lifetime57.workers.dev&path=#🇨🇿CZ_3ms_none
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.50:8880?type=ws&host=vms.lifetime23.workers.dev&path=/?https://t.me/youtube@ZYFXSfp=chrome#🇩🇪DE_2ms_none
-vless://f06cfdae-269e-44db-9196-4148d7af6812@140.248.69.255:443?encryption=none&type=xhttp&security=tls&sni=default.ssl.fastly.net&alpn=h2,http/1.1&fp=chrome&path=/&host=Freespeed.global.ssl.fastly.net#🇩🇰DK_200ms_tls
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.30:8880?type=ws&host=vms.lifetime51.workers.dev#🇪🇪EE_3ms_none
-vless://029cf202-020c-42a5-8186-1a831c8322c5@185.18.250.24:80?encryption=none&security=none&type=ws&host=rain.leemurda187.xyz&path=%2Fvless%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇪🇸ES_2ms_none
-vless://09228739-5de3-4e1f-9f2f-35cc45e1737d@64.188.74.34:443?type=tcp&security=reality&sni=&pbk=UJkmcmOs56af7Fsa5n3Z9wo8u5DgsZc6TKFW9dCyoDE&sid=#🇫🇮FI_200ms_reality
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@141.101.120.187:2086?path=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=&alpn=h2,http/1.1&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#🇫🇷FR_2ms_
-vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80?security=none&type=ws&sni=ov-germany1.09vpn.com&encryption=none&headerType=none#🇬🇧GB_2ms_none
-vless://0ee2d410-3e64-4c41-a571-3e5d2b5b8982@217.12.204.110:7443?alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&fp=chrome&mode=auto&path=%2F&security=tls&sni=chat.speedload.ru&type=xhttp#🇬🇷GR_386ms_tls
-vless://029cf202-020c-42a5-8186-1a831c8322c5@45.192.222.24:80?encryption=none&security=none&type=ws&host=rain.leemurda187.xyz&path=%2Fvless%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇭🇰HK_2ms_none
-vless://029cf202-020c-42a5-8186-1a831c8322c5@213.182.199.24:80?encryption=none&security=none&type=ws&host=rain.leemurda187.xyz&path=%2Fvless%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇭🇷HR_3ms_none
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🇭🇺HU_2ms_none
-vless://42add63b-deda-4e71-aa48-ddd288181858@45.196.29.40:443?encryption=none&security=tls&sni=edtunnel-eiz.pages.dev&insecure=0&allowInsecure=0&type=ws&host=edtunnel-eiz.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇮🇩ID_8ms_tls
-vless://26524cce-d514-4014-a426-365fb266a14d@52.19.138.237:8443?security=tls&sni=bt5hpm5jf6.chinam.eu.org&type=ws&host=bt5hpm5jf6.chinam.eu.org&path=/danfeng?ed=2560&fp=chrome#🇮🇪IE_140ms_tls
-vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.166.143:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=tboI265nKvT77HoZPyA6bgZNuLap_Jy-XvAx2-4Rcwk&security=reality&sid=0c1553316a645758&sni=store.steampowered.com&type=tcp#🇮🇱IL_247ms_reality
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.149.135.253:8880?encryption=none&security=none&type=ws&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇮🇳IN_3ms_none
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.4.30:8880?type=ws&host=vms.lifetime59.workers.dev#🇮🇷IR_3ms_none
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@147.45.51.160:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=api.company-target.com#🇮🇹IT_201ms_reality
-vless://3abe823c-d83e-4e0f-b780-c199a6fc6458@151.101.109.223:443?path=/wp-admin.php?ed=2052&security=tls&encryption=none&insecure=1&host=Wordpress.Mihan.cOm&type=ws&allowInsecure=1&sni=python.org#🇯🇵JP_5ms_tls
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.243.74.253:8880?encryption=none&security=none&type=ws&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳#🇰🇭KH_3ms_none
-vless://26524cce-d514-4014-a426-365fb266a14d@49.238.238.146:2096?encryption=none&security=tls&sni=snippet.danfeng.com.cfd&fp=random&insecure=0&allowInsecure=0&type=ws&host=snippet.danfeng.com.cfd&path=%2Fdanfeng%3Fed%3D2560#🇰🇷KR_7ms_tls
-vless://029cf202-020c-42a5-8186-1a831c8322c5@185.176.26.24:80?encryption=none&security=none&type=ws&host=rain.leemurda187.xyz&path=%2Fvless%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇰🇿KZ_3ms_none
-vless://5c59654a-7ae4-4d46-89df-8cc0f87781aa@45.15.167.138:25721?encryption=none&fp=&pbk=Cw0SLr39n4O_lcV4TPTcQ21jbFxRy66NDCT_J96oSCs&security=reality&serviceName=grpc&sid=71&sni=yahoo.com&type=grpc#🇱🇮LI_436ms_reality
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@88.216.69.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🇱🇹LT_2ms_none
-vless://01c0530f-168d-4645-a74c-f2b3b015c217@104.244.73.115:2053?encryption=none&type=tcp&security=reality&headerType=none&sni=patreon.com&fp=random&allowInsecure=1&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=b85e293fa1&spx=%2F&flow=xtls-rprx-vision#🇱🇺LU_193ms_reality
-vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&sid=4360e536#🇱🇻LV_223ms_reality
-vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@94.103.0.230:443?sni=pl.prostosetup.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇲🇩MD_228ms_tls
-vless://26524cce-d514-4014-a426-365fb266a14d@46.202.30.42:443?encryption=none&security=tls&sni=snippet.danfeng.rr.kg&insecure=0&allowInsecure=0&type=ws&host=snippet.danfeng.rr.kg&path=%2Fdanfeng#🇲🇹MT_7ms_tls
-vless://26524cce-d514-4014-a426-365fb266a14d@45.89.107.125:443?sni=vyp5slzk.cdn-edge-02.chinat.indevs.in&type=ws&host=vyp5slzk.cdn-edge-02.chinat.indevs.in&path=/danfeng?ed=2560fp=firefoxsecurity=tls#🇲🇾MY_458ms_none
-vless://26524cce-d514-4014-a426-365fb266a14d@185.7.240.42:443?sni=snippet.danfeng.rr.kg&type=ws&host=snippet.danfeng.rr.kg&path=/danfengsecurity=tls#🇳🇱NL_2ms_none
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@95.173.205.70:8443/?type=tcp&encryption=none&security=tls&sni=osl-no-01.fromblancwithlove.com&alpn=h2#🇳🇴NO_224ms_tls
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=/#🇳🇿NZ_4ms_none
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.232.140.30:8880?host=vms.lifetime61.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&type=ws#🇦🇪 United Arab Emirates Dubai_11ms_none
+vless://f9a0061a-0585-43ab-9cce-12099b48be53@93.123.113.36:443?type=tcp&security=reality&sni=&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&sid=ea1058117be12087#🇦🇱 Albania Tirana_235ms_reality
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.215.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime02.workers.dev#🇦🇲 Armenia Yerevan_10ms_none
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.30:8880?type=ws&host=vms.lifetime23.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳#🇦🇹 Austria Vienna_11ms_none
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.65.217.30:8880?type=ws&host=vms.lifetime37.workers.dev&path=#🇦🇺 Australia Melbourne_11ms_none
+vless://e8485150-d10e-4271-b2fb-dd37c9bd44f4@109.69.218.164:443?security=reality&sni=lerua.xyz&fp=chrome&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇧🇪 Belgium Zaventem_174ms_reality
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.112.30:8880?host=vms.lifetime11.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&type=ws#🇧🇬 Bulgaria Sofia_10ms_none
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.133.35.251:8880?path=/Telegram&security=none&encryption=none&host=cf.d3z.net&type=ws&sni=Telegram-channel-WangCai2#🇧🇷 Brazil Casa Verde_10ms_none
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.66.71.149:2053?&security=tls&fp=chrome&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=/danfeng#🇧🇾 Belarus Minsk_267ms_tls
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.211.253:8880?encryption=none&security=none&type=ws&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇧🇿 Belize Belize City_10ms_none
+vless://1b8a2b1e-14b0-4373-d45f-f46d33c7bfca@151.101.2.168:80?encryption=none&security=none&type=ws&host=aklisvpn.com&path=%2F%40aklisvpn%40aklisvpn-%40aklisvpn%40aklisvpn-%40aklisvpn%40aklisvpn-%40aklisvpn%40aklisvpn-%40aklisvpn%40aklisvpn-%40aklisvpn%40aklisvpn-%40aklisvpn%40aklisvpn-%40aklisvpn%40aklisvpn-#🇨🇦 Canada Montreal_9ms_none
+vless://26524cce-d514-4014-a426-365fb266a14d@178.253.32.49:1103?type=ws&security=tls&sni=&host=snippet.fgfw.loc.cc&path=%2Fdanfeng#🇨🇩 DR Congo Central_469ms_tls
+vless://41b92d9f-6c8d-4ac3-8eeb-eb3fcf48e102@92.119.165.11:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=UWUBepTdDtiUpf_ZgYjO2iriD0qc7RX2Gm-vtLDIG0k&security=reality&sid=182de34d29d30341&sni=sw.kickvpn.ru&type=tcp#🇨🇭 Switzerland Bern_204ms_reality
+vless://26524cce-d514-4014-a426-365fb266a14d@64.176.15.110:2053?type=ws&security=tls&sni=&host=s3vz.user-service.chinav.indevs.in&path=%2Fdanfeng#🇨🇱 Chile Santiago_336ms_tls
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@176.124.223.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🇨🇳 China Lanzhou_11ms_none
+vless://b2bd4c7f-1b17-433b-87a1-dfa6095c8f3f@190.93.247.56:8080?type=ws&host=astech.ir.www.speedtest.net.www.zula.ir.cloudflare.com.hostirann.xYz.&path=/telegram-#🇨🇷 Costa Rica Pozos_10ms_none
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.67.30:8880?type=ws&security=none&host=vms.lifetime05.workers.dev&path=%2F#🇨🇼 Curacao Willemstad_10ms_none
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.37.33.30:8880?type=ws&security=none&host=vms.lifetime57.workers.dev&path=#🇨🇾 Cyprus Nicosia_10ms_none
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.253:8880?encryption=none&security=none&type=ws&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇨🇿 Czechia Prague_10ms_none
+vless://029cf202-020c-42a5-8186-1a831c8322c5@45.128.76.24:80?encryption=none&security=none&type=ws&host=rain.leemurda187.xyz&path=%2Fvless%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇩🇪 Germany Frankfurt am Main_10ms_none
+vless://f06cfdae-269e-44db-9196-4148d7af6812@140.248.69.255:443?encryption=none&type=xhttp&security=tls&sni=default.ssl.fastly.net&alpn=h2,http/1.1&fp=chrome&path=/&host=Freespeed.global.ssl.fastly.net#🇩🇰 Denmark Copenhagen_220ms_tls
+vless://029cf202-020c-42a5-8186-1a831c8322c5@185.159.247.24:80?encryption=none&security=none&type=ws&host=rain.leemurda187.xyz&path=%2Fvless%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇪🇪 Estonia Tallinn_11ms_none
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.30:8880?type=ws&host=vms.lifetime47.workers.dev&path=#🇪🇸 Spain Madrid_10ms_none
+vless://09228739-5de3-4e1f-9f2f-35cc45e1737d@64.188.74.34:443?type=tcp&security=reality&sni=&pbk=UJkmcmOs56af7Fsa5n3Z9wo8u5DgsZc6TKFW9dCyoDE&sid=#🇫🇮 Finland Helsinki_214ms_reality
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@141.101.120.143:2086?path=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=&alpn=h2,http/1.1&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#🇫🇷 France Paris_10ms_
+vless://011551f8-584f-4745-9aa3-c76e0c827940@25.25.25.25:2082?path=%2F%3Fed%3D2052&security=none&encryption=none&host=azki.bosbosi.com&type=ws#🇬🇧 United Kingdom Northwood_10ms_none
+vless://0ee2d410-3e64-4c41-a571-3e5d2b5b8982@217.12.204.110:7443?alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&fp=chrome&mode=auto&path=%2F&security=tls&sni=chat.speedload.ru&type=xhttp#🇬🇷 Greece Thessaloniki_402ms_tls
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.253:8880?encryption=none&security=none&type=ws&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇭🇰 Hong Kong Hong Kong_10ms_none
+vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@213.182.199.142:2053?encryption=none&type=xhttp&security=tls&path=%2Fxn--q9jyb4c&host=cdn.dns.xn--q9jyb4c&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=cdn.dns.xn--q9jyb4c&allowInsecure=0#🇭🇷 Croatia Zagreb_20ms_tls
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.202.253:8880?type=ws&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳#🇭🇺 Hungary Budapest_10ms_none
