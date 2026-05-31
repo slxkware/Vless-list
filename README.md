@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F7B731&center=true&vCenter=true&width=600&lines=%E2%9A%A1+SLXKWARE+-+VLESS+%E2%9A%A1;Free+VPN+for+Russia;Reality+%2F+TLS+%2F+XTLS+Only" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F7B731&center=true&vCenter=true&width=700&lines=%E2%9A%A1+SLXKWARE+-+VLESS+%E2%9A%A1;Free+VPN+for+Russia;Reality+%2F+TLS+%2F+XTLS+Only" alt="Typing SVG" />
 
 <br/>
 
@@ -19,63 +18,46 @@
 
 ## ⚡ О проекте
 
-Бесплатные **VLESS** конфигурации для обхода блокировок в России.  
-Список автоматически обновляется каждые **2 часа** через GitHub Actions.  
+Бесплатные **VLESS** конфигурации для обхода блокировок в России.
+Список автоматически обновляется каждые **2 часа** через GitHub Actions.
 Только живые прокси — **Reality / XTLS / TLS**, мусор отфильтрован.
 
 ---
 
-## 🚀 Подключение
+## 🚀 Подписки
 
 <div align="center">
 
-### 📋 Ссылка на подписку
+<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="400"/>
+
+<br/><br/>
+
+### ☣️ Black — зарубежные серверы, обход блокировок
 
 ```
-https://raw.githubusercontent.com/slxkware/Vless-list/main/vless.txt
+https://github.com/slxkware/Vless-list/raw/refs/heads/main/Black%20Vless.txt
+```
+
+### ❄️ White — российские + зарубежные, всё работает одновременно
+
+```
+https://github.com/slxkware/Vless-list/raw/refs/heads/main/White%20Vless.txt
 ```
 
 </div>
 
-### Как добавить в приложение:
-
-| Приложение | Платформа | Как добавить |
-|---|---|---|
-| **happ** | Android / iOS | Подписки → + → вставить ссылку |
-| **v2rayNG** | Android | Групповые подписки → + → вставить ссылку |
-| **Streisand** | iOS | Конфигурации → + → URL подписки |
-| **NekoBox** | Android | Профили → Новый профиль → URL |
-| **v2rayN** | Windows | Подписки → Управление → Добавить |
-
 ---
 
-## 📊 Статистика
+## 🤔 Какую выбрать?
 
 <div align="center">
 
-![Configs](https://img.shields.io/badge/Configs-50-F7B731?style=for-the-badge)
-![Reality](https://img.shields.io/badge/Priority-Reality%2FTCP-00d4ff?style=for-the-badge)
-![Ping](https://img.shields.io/badge/Sorted%20by-Ping%20↑-brightgreen?style=for-the-badge)
-
-</div>
-
-- ✅ Проверка TCP + TLS для каждого прокси
-- ✅ Только `reality`, `xtls`, `tls` — без мусорных `none/ws`
-- ✅ Сортировка по пингу — самые быстрые сверху
-- ✅ GeoIP метки с флагами стран
-- ✅ Автообновление каждые 2 часа
-
----
-
-## 🛡️ Протоколы
-
-<div align="center">
-
-| Приоритет | Протокол | Описание |
+| | ☣️ Black | ❄️ White |
 |---|---|---|
-| 🥇 | **VLESS + Reality/TCP** | Лучший обход DPI, невидим для РКН |
-| 🥈 | **VLESS + XTLS** | Высокая скорость + защита |
-| 🥉 | **VLESS + TLS/WS** | Универсальный, стабильный |
+| Заблокированные сайты | ✅ | ✅ |
+| Сбер / Госуслуги / банки | ⚠️ могут ломаться | ✅ работают |
+| Нагрузка на VPN | низкая | выше |
+| Кому подходит | только обход блокировок | для всего сразу |
 
 </div>
 
@@ -83,15 +65,19 @@ https://raw.githubusercontent.com/slxkware/Vless-list/main/vless.txt
 
 ## ⚠️ Дисклеймер
 
-Конфигурации собираются из открытых публичных источников.  
-Используйте только в законных целях.  
+Конфигурации собираются из открытых публичных источников.
+Используйте только в законных целях.
 Автор не несёт ответственности за действия пользователей.
 
 ---
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="200"/>
 
 <br/>
 
