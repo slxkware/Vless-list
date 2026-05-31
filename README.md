@@ -1,13 +1,7 @@
 <div align="center">
 <br/>
 
-<picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=80&duration=0&pause=0&color=CC00FF&center=true&vCenter=true&repeat=false&width=700&height=120&lines=VLESS+LIST" alt="VLESS LIST"/>
-</picture>
-
-<br/>
-
-<p>free &bull; fast &bull; always on</p>
+![VLESS LIST](header.svg)
 
 <br/>
 
