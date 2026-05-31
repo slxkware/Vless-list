@@ -1,7 +1,7 @@
 <div align="center">
 <br/>
 
-![VLESS LIST](header.svg)
+![VLESS LIST](logo.svg)
 
 <br/>
 
