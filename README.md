@@ -1,20 +1,29 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=200&section=header&text=VLESS+FREE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Black+%26+White+Proxy+Lists&descAlignY=60&descColor=a78bfa)
-
 <div align="center">
+<br/>
 
-![](https://img.shields.io/badge/V%20L%20E%20S%20S-★★★★★-6d28d9?style=for-the-badge&logoColor=white)
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=80&duration=0&pause=0&color=CC00FF&center=true&vCenter=true&repeat=false&width=700&height=120&lines=VLESS+LIST" alt="VLESS LIST"/>
+</picture>
 
-![vless](https://img.shields.io/badge/-VLESS-6d28d9?style=flat-square&logoColor=white)
-![free](https://img.shields.io/badge/-FREE-4c1d95?style=flat-square&logoColor=white)
-![tls](https://img.shields.io/badge/-TLS%2FXTLS-7c3aed?style=flat-square&logoColor=white)
-![update](https://img.shields.io/badge/-updated_regularly-581c87?style=flat-square&logoColor=white)
-![github](https://img.shields.io/github/stars/slxkware/Vless-list?style=flat-square&color=6d28d9&label=stars)
+<br/>
+
+<p>free &bull; fast &bull; always on</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/VLESS-9b30ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/FREE-9b30ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/TLS%2FXTLS-9b30ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/updated_regularly-4a1080?style=flat-square"/>
+<img src="https://img.shields.io/badge/stars-0-2d1b4e?style=flat-square"/>
 
 </div>
 
+<br/>
+
 ---
 
-## 🖤 VLESS FREE BLACK
+### 🖤 VLESS FREE BLACK
 
 > First list — dark.
 
@@ -24,7 +33,7 @@ https://github.com/slxkware/Vless-list/raw/refs/heads/main/Black%20Vless.txt
 
 ---
 
-## 🤍 VLESS FREE WHITE
+### 🤍 VLESS FREE WHITE
 
 > Second list — light.
 
@@ -36,23 +45,29 @@ https://github.com/slxkware/Vless-list/raw/refs/heads/main/White%20Vless.txt
 
 <div align="center">
 
-![](https://img.shields.io/badge/protocol-VLESS-1e0a3c?style=for-the-badge&labelColor=6d28d9)
-![](https://img.shields.io/badge/transport-WS%20%2F%20gRPC%20%2F%20TCP-1e0a3c?style=for-the-badge&labelColor=4c1d95)
-![](https://img.shields.io/badge/encryption-TLS%20%2F%20XTLS-1e0a3c?style=for-the-badge&labelColor=7c3aed)
-![](https://img.shields.io/badge/price-free-1e0a3c?style=for-the-badge&labelColor=581c87)
+<img src="https://img.shields.io/badge/PROTOCOL-9b30ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/VLESS-2d1b4e?style=flat-square"/>
+<img src="https://img.shields.io/badge/TRANSPORT-2d1b4e?style=flat-square"/>
+<img src="https://img.shields.io/badge/WS%20%2F%20GRPC%20%2F%20TCP-2d1b4e?style=flat-square"/>
+<img src="https://img.shields.io/badge/ENCRYPTION-9b30ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/TLS%20%2F%20XTLS-2d1b4e?style=flat-square"/>
+<img src="https://img.shields.io/badge/PRICE-2d1b4e?style=flat-square"/>
+<img src="https://img.shields.io/badge/FREE-9b30ff?style=flat-square"/>
 
 </div>
 
+<br/>
+
 ---
 
-## ⚠️ Disclaimer
+### ⚠️ Disclaimer
 
-Все сервера собраны **исключительно из открытых источников** — публичных Telegram‑каналов, GitHub‑репозиториев и открытых сайтов. Автор не является владельцем ни одного из серверов и не несёт ответственности за их работу, стабильность или за трафик, который через них проходит. Репозиторий носит исключительно **информационный характер**. Третьи стороны могут логировать трафик — используйте на собственный страх и риск. Не нарушайте законодательство своей страны.
+Публичные сервера из открытых источников. Автор не несёт ответственности за стабильность и трафик. **Третьи стороны могут логировать** — используй на свой риск. **Не нарушай закон своей страны.**
 
 ---
 
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=120&section=footer)
-
+<br/>
+<sub>by <a href="https://github.com/slxkware">slxkware</a></sub>
+<br/><br/>
 </div>
