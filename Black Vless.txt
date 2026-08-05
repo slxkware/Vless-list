@@ -1,34 +1,34 @@
 #profile-title: ⚡️ BLACK - SLXKWARE ⚡️
-#updated 05.08.2026 22:13.10 UTC +3
+#updated 05.08.2026 23:56.20 UTC +3
 #profile-update-interval: 2
 
 vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@45.138.100.226:2083?type=grpc&security=tls&encryption=none&sni=using.neobo-tooth.ru&fp=chrome&alpn=http%2F1.1&headerType=none&serviceName=grpc#🇺🇸 United States Secaucus
-vless://bdba330b-dfc6-000a-93e4-b10f906bf4fb@72.56.234.184:443?type=tcp&headerType=none&security=reality&encryption=none&sni=monalisgame.com&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&flow=xtls-rprx-vision&fp=chrome#🇷🇺 Russia Moscow
 vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@using.neobo-tooth.ru:2083?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=grpc&allowInsecure=0#🇺🇸 United States Secaucus
-vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.251.127:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=qG8bPYNpkt0oP6Dz6jp6u3ZlYMT-oGN49S8ohSFL-Gk&sid=9ac5c283c566f081&sni=31-76-251-127.cdn-one.org&spx=/63223499ce6e05b#🇵🇱 Poland Warsaw
-vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.103.53:8443?encryption=none&security=tls&sni=round-art-52ee.eadfgv.workers.dev&fp=chrome&type=ws&host=round-art-52ee.eadfgv.workers.dev&path=/&packetEncoding=xudp#🇨🇦 Canada Toronto
-vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.limaklhc6.info:8443?&security=tls&fp=chrome&sni=ad-005.limaklhc6.info&type=ws&headerType=none&host=ad-005.limaklhc6.info&path=%2F#🇨🇦 Canada Toronto
-vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.limaklhc6.info:8443?&security=tls&fp=chrome&sni=ad-010.limaklhc6.info&type=ws&headerType=none&host=ad-010.limaklhc6.info&path=%2F#🇨🇦 Canada Toronto
-vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@77.105.163.46:443?encryption=none&host=ov186.ochmaybrooooo.online&path=/&security=tls&sni=ov186.ochmaybrooooo.online&type=ws#🇨🇳 China Beijing
-vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.zen2bswa.info:8443?&security=tls&fp=chrome&sni=ad-020.zen2bswa.info&type=ws&headerType=none&host=ad-020.zen2bswa.info&path=%2F#🇨🇦 Canada Toronto
-vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.orbitqgr7v.info:8443?&security=tls&fp=chrome&sni=ad-020.orbitqgr7v.info&type=ws&headerType=none&host=ad-020.orbitqgr7v.info&path=%2F#🇨🇦 Canada Toronto
-vless://30235bbe-f791-4e53-89f9-5d9363af9b0a@free77-sg3.node2.top:443?&security=tls&fp=chrome&sni=sie704.pages.dev&type=ws&headerType=none&host=sie704.pages.dev&path=%2FXFJVPNfp%3Dchrome#🇨🇦 Canada Toronto
-vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@8.6.112.0:443?security=tls&type=ws&headerType=&path=%2F&host=polshaov.ochmaybrooooo.online&sni=polshaov.ochmaybrooooo.online&fp=chrome&alpn=http%2F1.1&fragment=3%2C1%2Ctlshello#🇺🇸 United States San Francisco
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.64.80.1:8443?security=tls&type=ws&path=%2F&host=ad-013.orbitqgr7v.info&sni=ad-013.orbitqgr7v.info&fp=ios#🇨🇦 Canada Toronto
-vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&type=ws&host=ov.iran-servers.shop&path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=ov.iran-servers.shop#🇨🇦 Canada Toronto
-vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.pixel9xdmq.info:8443?&security=tls&fp=chrome&sni=ad-004.pixel9xdmq.info&type=ws&headerType=none&host=ad-004.pixel9xdmq.info&path=%2F#🇨🇦 Canada Toronto
-vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.pixel9xdmq.info:8443?&security=tls&fp=chrome&sni=ad-010.pixel9xdmq.info&type=ws&headerType=none&host=ad-010.pixel9xdmq.info&path=%2F#🇨🇦 Canada Toronto
-vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.milo1fmyz.info:8443?type=ws&security=tls&encryption=none&path=%2F&host=ad-010.milo1fmyz.info&sni=ad-010.milo1fmyz.info&fp=chrome&headerType=none#🇨🇦 Canada Toronto
-vless://5d3abfa9-bdf5-4334-8383-dcf92df802a5@ad-018.cloud25075.info:8443?&security=tls&fp=chrome&sni=ad-018.cloud25075.info&type=ws&headerType=none&host=ad-018.cloud25075.info&path=%2F#🇨🇦 Canada Toronto
-vless://42f3c6bc-fdc3-4d4e-b95d-f84f9e6bf27f@ger-full.deepinsane.com:2053?type=ws&security=tls&encryption=none&path=%2Fapi%2Fvote%2Fnumber%2Frow%2Fn1&host=ger-full.deepinsane.com&sni=ger-full.deepinsane.com&fp=chrome&alpn=http%2F1.1&headerType=none#🇨🇦 Canada Toronto
-vless://05cf7b0e-ad1a-42bb-80e7-73ae45b1019a@france.io-com-de-dev.org:8443?security=tls&type=ws&path=/api/voip/updates/static/x9i2&host=france.io-com-de-dev.org&alpn=http/1.1&sni=france.io-com-de-dev.org&fp=chrome&encryption=none#🇨🇦 Canada Toronto
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.atlaswyxd3.info:8443?&security=tls&fp=chrome&sni=ad-013.atlaswyxd3.info&type=ws&headerType=none&host=ad-013.atlaswyxd3.info&path=%2F#🇨🇦 Canada Toronto
-vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.cloud25075.info:8443?&security=tls&fp=chrome&sni=ad-004.cloud25075.info&type=ws&headerType=none&host=ad-004.cloud25075.info&path=%2F#🇨🇦 Canada Toronto
-vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.pixel9xdmq.info:8443?&security=tls&fp=chrome&sni=ad-020.pixel9xdmq.info&type=ws&headerType=none&host=ad-020.pixel9xdmq.info&path=%2F#🇨🇦 Canada Toronto
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.108:2096?type=ws&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev#🇬🇧 United Kingdom Stretford
-vless://f028a8c0-6763-4558-aee3-2563db9d7825@paul.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=ziro.skin&host=ziro.skin&path=/xxvclws#🇨🇦 Canada Toronto
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@brazil.com:2083?fp=random&host=c7dabe95.proxy-978.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#🇨🇦 Canada Toronto
-vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.zenkk0cd.info:8443?&security=tls&fp=chrome&sni=ad-004.zenkk0cd.info&type=ws&headerType=none&host=ad-004.zenkk0cd.info&path=%2F#🇨🇦 Canada Toronto
-vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.zen2bswa.info:8443?path=/&security=tls&encryption=none&insecure=0&host=ad-004.zen2bswa.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-004.zen2bswa.info#🇨🇦 Canada Toronto
+vless://bdba330b-dfc6-000a-93e4-b10f906bf4fb@72.56.234.184:443?type=tcp&headerType=none&security=reality&encryption=none&sni=monalisgame.com&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&flow=xtls-rprx-vision&fp=chrome#🇷🇺 Russia Moscow
 vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.novayjr9g.info:8443?&security=tls&fp=chrome&sni=ad-004.novayjr9g.info&type=ws&headerType=none&host=ad-004.novayjr9g.info&path=%2F#🇨🇦 Canada Toronto
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-020.cloud25075.info:8443?&security=tls&fp=chrome&sni=ad-020.cloud25075.info&type=ws&headerType=none&host=ad-020.cloud25075.info&path=%2F#🇨🇦 Canada Toronto
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.64.80.1:8443?security=tls&type=ws&path=%2F&host=ad-013.orbitqgr7v.info&sni=ad-013.orbitqgr7v.info&fp=ios#🇨🇦 Canada Toronto
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.pixel9xdmq.info:8443?&security=tls&fp=chrome&sni=ad-010.pixel9xdmq.info&type=ws&headerType=none&host=ad-010.pixel9xdmq.info&path=%2F#🇨🇦 Canada Toronto
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.flux3ni5o.info:8443?&security=tls&fp=chrome&sni=ad-010.flux3ni5o.info&type=ws&headerType=none&host=ad-010.flux3ni5o.info&path=%2F#🇨🇦 Canada Toronto
+vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@77.105.163.46:443?encryption=none&host=ov186.ochmaybrooooo.online&path=/&security=tls&sni=ov186.ochmaybrooooo.online&type=ws#🇨🇳 China Beijing
+vless://c7665648-eff9-4317-8978-4ee2fb34f752@chatgpt.com:443?type=ws&security=tls&fp=chrome&sni=v7s1e040.5qqzdipkj05g8copceva.workers.dev#🇨🇦 Canada Toronto
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=&fp=chrome&type=ws&sni=#🇨🇦 Canada Toronto
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@brazil.com:2083?fp=random&host=c7dabe95.proxy-978.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#🇨🇦 Canada Toronto
+vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.vector9nmb3.info:8443?&security=tls&fp=chrome&sni=ad-020.vector9nmb3.info&type=ws&headerType=none&host=ad-020.vector9nmb3.info&path=%2F#🇨🇦 Canada Toronto
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.limaklhc6.info:8443?&security=tls&fp=chrome&sni=ad-010.limaklhc6.info&type=ws&headerType=none&host=ad-010.limaklhc6.info&path=%2F#🇨🇦 Canada Toronto
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.atlaswyxd3.info:8443?&security=tls&fp=chrome&sni=ad-013.atlaswyxd3.info&type=ws&headerType=none&host=ad-013.atlaswyxd3.info&path=%2F#🇨🇦 Canada Toronto
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@soskeynets.hoyes.cloudns.ch:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🇨🇦 Canada Toronto
+vless://3e37ef76-835d-4ad2-a1d3-414ef90532bf@8.6.112.0:443?path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=kanan.aahhajwwiwjwowuwjwwjjwje.online&fp=chrome&type=xhttp&allowInsecure=0&sni=kanan.aahhajwwiwjwowuwjwwjjwje.online#🇺🇸 United States San Francisco
+vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.zen2bswa.info:8443?path=/&security=tls&encryption=none&insecure=0&host=ad-004.zen2bswa.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-004.zen2bswa.info#🇨🇦 Canada Toronto
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.atlast9hdp.info:8443?&security=tls&fp=chrome&sni=ad-010.atlast9hdp.info&type=ws&headerType=none&host=ad-010.atlast9hdp.info&path=%2F#🇨🇦 Canada Toronto
+vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.limaklhc6.info:8443?&security=tls&fp=chrome&sni=ad-005.limaklhc6.info&type=ws&headerType=none&host=ad-005.limaklhc6.info&path=%2F#🇨🇦 Canada Toronto
+vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.fluxmxd18.info:8443?&security=tls&fp=chrome&sni=ad-020.fluxmxd18.info&type=ws&headerType=none&host=ad-020.fluxmxd18.info&path=%2F#🇨🇦 Canada Toronto
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector2llqn.info:8443?&security=tls&fp=chrome&sni=ad-010.vector2llqn.info&type=ws&headerType=none&host=ad-010.vector2llqn.info&path=%2F#🇨🇦 Canada Toronto
+vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.vector2llqn.info:8443?security=tls&type=ws&path=%2F&host=ad-020.vector2llqn.info&packetEncoding=none&sni=ad-020.vector2llqn.info&fp=chrome#🇨🇦 Canada Toronto
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.pixel9xdmq.info:8443?&security=tls&fp=chrome&sni=ad-013.pixel9xdmq.info&type=ws&headerType=none&host=ad-013.pixel9xdmq.info&path=%2F#🇨🇦 Canada Toronto
+vless://30235bbe-f791-4e53-89f9-5d9363af9b0a@free77-sg3.node2.top:443?&security=tls&fp=chrome&sni=sie704.pages.dev&type=ws&headerType=none&host=sie704.pages.dev&path=%2FXFJVPNfp%3Dchrome#🇨🇦 Canada Toronto
+vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.zenkk0cd.info:8443?&security=tls&fp=chrome&sni=ad-004.zenkk0cd.info&type=ws&headerType=none&host=ad-004.zenkk0cd.info&path=%2F#🇨🇦 Canada Toronto
+vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.vector9nmb3.info:8443?&security=tls&fp=chrome&sni=ad-004.vector9nmb3.info&type=ws&headerType=none&host=ad-004.vector9nmb3.info&path=%2F#🇨🇦 Canada Toronto
+vless://06823dfb-4ced-425d-a905-3774ee9d5026@b22ntzajtafvkew6em2th68a6030-ogu.hirad228.workers.dev:2096?security=tls&type=ws&path=/vl/rHafoy5iECkpclPx6DB8suoC&host=b22ntzajtafvkew6em2th68a6030-ogu.hirad228.workers.dev&ed=2560&packetEncoding=xudp&alpn=http/1.1&sni=B22ntzaJtAfVKEW6em2Th68A6030-oGU.HIraD228.wORKers.deV&fp=chrome&encryption=none#🇨🇦 Canada Toronto
+vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.vector9nmb3.info:8443?&security=tls&fp=chrome&sni=ad-005.vector9nmb3.info&type=ws&headerType=none&host=ad-005.vector9nmb3.info&path=%2F#🇨🇦 Canada Toronto
+vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.108:2096?type=ws&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev#🇬🇧 United Kingdom Stretford
