@@ -1,7 +1,15 @@
 #profile-title: ⚡️ BLACK - SLXKWARE ⚡️
-#updated 25.09.2026 17:50.57 UTC +3
+#updated 25.09.2026 22:40.40 UTC +3
 #profile-update-interval: 2
 
-vless://d9ca156c-8b6d-4ca6-8be1-4eee64c93c36@31.77.15.116:8443?encryption=none&flow=xtls-rprx-vision&pbk=ZRTNgwFRP8viY4SQOgPTfWlLWJCwY3dr0aawA7vHwhU&security=reality&sid=a1b2c3d4e5f6a7b8&sni=xnod21x.artemida.live&type=tcp&fp=android#🇺🇸 United States Orem
+vless://11d826ce-d6e5-4154-8658-6829bb17dca2@nl9-node.rumedia-cdn.com:2096?type=ws&security=tls&encryption=none&sni=stadb90.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&host=stadb90.rumedia-cdn.com&fp=android#🇳🇱 The Netherlands Eygelshoven
+vless://e7e1bd5c-7fd8-45c1-856d-1ef9308c93be@151.101.213.101:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&type=xhttp&mode=packet-up&host=lunex.store&path=%2FLunex&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=chrome#🇺🇸 United States Chicago
+vless://4192524f-09f0-414f-88fd-7a14378491c7@43.133.11.187:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudflare.com&pbk=ueVbgAT9A7SkGgua_uljhQsvpnRUQlfdc7meiqcaxXE&sid=913e9b95fbc71278&type=tcp&fp=chrome#🇯🇵 Japan Tokyo
+vless://3e63ff6e-2017-439b-bdf3-caba1a7a5c56@jp-1.gsafevpnapi.com:20270/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.com&security=reality&pbk=gaFVpIOW9RJGuFFisfXVvITfYY5ikKn-4gB89ZQCFHI&sid=89fecfdaf45cd76d&packetEncoding=xudp&fp=chrome#🇯🇵 Japan Tokyo
 vless://ec486464-46c8-4f80-acc1-a3ccdcf01744@193.109.193.41:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=6OvNu3z9uVh1Br6hIOQOz4Qai7xuykdjcvtqiLqNRUs&sid=95fe9eef&type=tcp&headerType=none#🇵🇱 Poland Warsaw
-vless://86863a94-436f-4b42-87a9-ada20223fc98@ger2.serverslocal.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ger2.serverslocal.ru&security=reality&pbk=HU7wfuALGGK17nwtD7HQBRr3bLoArYfgFfHl-PJHslk&sid=8bb1373708b0c36b&fp=android#🇩🇪 Germany Frankfurt am Main
+vless://02bd8b5a-170b-4a79-8e68-9cec710272c7@151.241.138.151:8444?encryption=none&flow=xtls-rprx-vision&pbk=sQ9CcspZ6urWlzGNjjmtfp8EuuDll5RVtcsVoq_EfUE&security=reality&sid=a3f509aa7a4b41cc&sni=pl1.gursub.com&type=tcp&fp=chrome#🇮🇳 India New Delhi
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ukefast.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=ukefast.failspace.top&alpn=h2&type=tcp&headerType=none&fp=chrome#🇬🇧 United Kingdom City of London
+vless://e1326768-f27e-4aa0-9c7b-0661aee5bc96@172.217.22.224:443?encryption=none&security=tls&sni=google.tm&alpn=http%2F1.1&type=ws&path=%2F&host=nervous24-564689748442.europe-north1.run.app&allowInsecure=0&insecure=0&fp=android#🇩🇪 Germany Munich
+vless://e1326768-f27e-4aa0-9c7b-0661aee5bc96@192.178.24.18:443?encryption=none&security=tls&sni=google.ac&alpn=http%2F1.1&type=ws&path=%2F&host=akechman-917337604616.europe-west3.run.app&allowInsecure=0&insecure=0&fp=android#🇺🇸 United States Mountain View
+vless://2b13751c-0372-4b07-8b4d-49459c5c4681@188.137.239.58:17497?security=reality&encryption=none&pbk=EpEBUY3kuebxQusY7SAJT4K3Axcsm_daJbqYC8ifxiw&headerType=none&spx=%2Fa3ffc08a87cc9ca&type=tcp&sni=0cc0f6a1.vless-reality-sni.staticedge-delivery.net&sid=e996&fp=chrome#🇳🇱 The Netherlands Oude Meer
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@md-new.failspace.top:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&fp=chrome#🇲🇩 Moldova Chisinau
