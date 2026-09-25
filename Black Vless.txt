@@ -1,8 +1,7 @@
 #profile-title: ⚡️ BLACK - SLXKWARE ⚡️
-#updated 25.09.2026 12:11.22 UTC +3
+#updated 25.09.2026 17:50.57 UTC +3
 #profile-update-interval: 2
 
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@179.255.106.180:8443?encryption=none&security=tls&sni=2ymxf.st3o.5o7.hh.vavava.kdns.fr&type=ws&path=%2F&host=2ymxf.st3o.5o7.hh.vavava.kdns.fr&ed=2560&fp=android#🇺🇸 United States Los Angeles
+vless://d9ca156c-8b6d-4ca6-8be1-4eee64c93c36@31.77.15.116:8443?encryption=none&flow=xtls-rprx-vision&pbk=ZRTNgwFRP8viY4SQOgPTfWlLWJCwY3dr0aawA7vHwhU&security=reality&sid=a1b2c3d4e5f6a7b8&sni=xnod21x.artemida.live&type=tcp&fp=android#🇺🇸 United States Orem
 vless://ec486464-46c8-4f80-acc1-a3ccdcf01744@193.109.193.41:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=6OvNu3z9uVh1Br6hIOQOz4Qai7xuykdjcvtqiLqNRUs&sid=95fe9eef&type=tcp&headerType=none#🇵🇱 Poland Warsaw
-vless://21551c9e-70fe-4fbf-9546-69db828c5dde@222.167.245.212:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.evovpn.pro&pbk=ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4&sid=b4c823&spx=%2F&type=tcp&fp=android#🇵🇱 Poland Warsaw
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@23.82.99.128:10453?encryption=none&pbk=rAHMmpeUJ6uOoGgk31dTF4-1RTtLZFnOEs_li2AYQWc&security=reality&serviceName=TunService&sni=www.google.com&type=grpc&fp=android#🇺🇸 United States San Jose
+vless://86863a94-436f-4b42-87a9-ada20223fc98@ger2.serverslocal.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ger2.serverslocal.ru&security=reality&pbk=HU7wfuALGGK17nwtD7HQBRr3bLoArYfgFfHl-PJHslk&sid=8bb1373708b0c36b&fp=android#🇩🇪 Germany Frankfurt am Main
