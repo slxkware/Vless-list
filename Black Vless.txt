@@ -1,6 +1,11 @@
 #profile-title: ⚡️ BLACK - SLXKWARE ⚡️
-#updated 02.10.2026 17:17.04 UTC +3
+#updated 02.10.2026 23:14.06 UTC +3
 #profile-update-interval: 2
 
+vless://eb98ab60-f16d-4662-a740-c89307400939@151.101.213.164:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&type=xhttp&mode=packet-up&host=fretranxrabet.net&path=%2F&fragment=1-3%2C10-20%2Ctlshello%2Cnull&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%2210-20%22%2C%22length%22%3A%221-3%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome#🇺🇸 United States Chicago
 vless://ec486464-46c8-4f80-acc1-a3ccdcf01744@193.109.193.41:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=6OvNu3z9uVh1Br6hIOQOz4Qai7xuykdjcvtqiLqNRUs&sid=95fe9eef&type=tcp&headerType=none#🇵🇱 Poland Warsaw
-vless://c2f5e996-9fe3-4c98-8d42-69cdef945d72@de1.meshbeat.online:8444?encryption=none&security=tls&sni=de1.meshbeat.online&alpn=http%2F1.1&type=ws&path=%2Fapi%2Fv1%2Fdevices%2F7c95df9cfe%2Ftelemetry&host=de1.meshbeat.online&fp=android#🇩🇪 Germany Frankfurt am Main
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.177.80:9881?encryption=none&security=reality&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&type=grpc&serviceName=grpc-tunnel&fp=chrome#🇷🇺 Russia Moscow
+vless://21d0929a-ba27-4822-9b50-bda9ee54a494@n48.himoy.space:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=n48.himoy.space&security=reality&pbk=Pb37t99NiJqm-lsTi4tucPFqRXIsek-5G5dqjIqVfxE&sid=15c87d0b99c0d132&fp=android#🇪🇪 Estonia Tallinn
+vless://e440fa81-fe9d-4ca1-b711-f7b72c3d79ed@34.128.84.173:443?security=reality&pbk=-9nhbWBjFTNIE5q0kg76hjyzCS2giPfZ-fbd8xvmRX0&sid=409192cee72716d7&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=chrome#🇮🇩 Indonesia Jakarta
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@185.242.247.44:443?encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&security=reality&sni=example.org&type=tcp&fp=android#🇫🇮 Finland Helsinki
+vless://4758aee6-6d1a-4306-b460-2398b5af4e35@34.35.174.143:443?pbk=dcox8XXfkOCmKn3kgrloj6wY5o1_0brJOi2mczYmAT4&security=reality&sid=5ced03e42cc31aab&sni=www.cloudflare.com&type=tcp&fp=android#🇿🇦 South Africa Johannesburg
