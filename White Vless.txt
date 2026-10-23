@@ -1,8 +1,11 @@
 #profile-title: ❄️ WHITE - SLXKWARE ❄️
-#updated 23.10.2026 17:31.36 UTC +3
+#updated 23.10.2026 22:37.48 UTC +3
 #profile-update-interval: 2
 
+vless://66dc1927-8528-4f1e-bb74-5a9c7aa8ea8c@188.225.27.229:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&security=reality&sid=88d9dc52ef39c8bd&sni=bridge.rkitman.ru&type=raw#🇷🇺 Russia St Petersburg
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@81.94.148.232:2053?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&fp=firefox&host=windytrout.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=windytrout.net&type=xhttp#🇳🇱 The Netherlands Amsterdam
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.254.17.88:30065?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&security=reality&sni=a3.eosapp.net&type=raw#🇷🇺 Russia Moscow
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.246.85:8443?encryption=none&extra=null&fp=chrome&host=fitindoor.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=fitindoor.net&type=xhttp#🇳🇱 The Netherlands Amsterdam
+vless://f1087776-5077-4b2f-9338-687d2787c64e@45.11.27.133:443?encryption=none&fp=firefox&mode=gun&pbk=_bEA-GWmkPW_YITfFaWHogq_5AsYX4zAqomlhRQouS4&security=reality&serviceName=UpdateService&sid=1e853ef7fcad4788&sni=s3.t2.ru&type=grpc#🇷🇺 Russia Yekaterinburg
 vless://c720cb74-4c84-4fce-b8ae-637dbaa16199@217.19.122.156:443?encryption=none&fp=safari&host=z1q3pv4g78.rucdncomp.pro&path=%2Fuseraction%2Fevents%2Fb892639b7195%2F&security=tls&sni=z1q3pv4g78.rucdncomp.pro&type=ws#🇳🇱 The Netherlands Amsterdam
 vless://ccd6419d-6943-4e7c-bc8c-7a157dadff80@82.202.179.110:14443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JufPPJ3rmM2jvI9g98K87wgUHroz4C-30NHX21UoZns&security=reality&sid=d29cbe24661f&sni=smartcaptcha.yandexcloud.net&type=raw#🇷🇺 Russia Moscow
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia St Petersburg
